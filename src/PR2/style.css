@@ -19,7 +19,7 @@
   margin-bottom: 50px;
 }
 .card {
-  width: 100%;
+  width: 100;
   border: 1px solid #aaaaaa;
   text-align: center;
   /* margin-top: 15px; */
@@ -51,4 +51,15 @@
 }
 p{
   color:darkgoldenrod ;
+}
+label {
+  display: block;
+  font:
+    1rem 'Fira Sans',
+    sans-serif;
+}
+
+input,
+label {
+  margin: 0.4rem 0;
 }

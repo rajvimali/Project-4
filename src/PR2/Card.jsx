@@ -41,7 +41,10 @@ const Card = () => {
 
     return (
         <>
+            {/* <input type="search" id="site-search" name="" /><button>Search</button> */}
             <h1 className='title'>Some Famouse Temples Of India</h1>
+
+            
             <div className="container">
                 <div className="row">
                     {data &&
