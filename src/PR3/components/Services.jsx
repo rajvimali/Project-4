@@ -1,6 +1,9 @@
 import React from 'react'
-import {FontAwesomeIcon} from 'react-bootstrap'
+import '../components/style.css';
+// import {FontAwesomeIcon} from 'react-bootstrap'
+// import { FontAwesomeIcon } from 'react-bootstrap'
 export  function Services() {
+  // const [servies , ]
   return (
     <section class="ftco-section bg-light">
 			<div class="container">
